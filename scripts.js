@@ -1,3 +1,10 @@
+window.onresize = function(event) {
+	var menu = document.getElementById("iconHolder");
+    var w = window.innerWidth;
+  menu.style.marginLeft = (-w - 300) + "px";
+  document.getElementById("test").innerHTML = w;
+
+}
 var isBlurred = false;
 function OpenMenu() {
   var header = document.getElementById("headerElement");

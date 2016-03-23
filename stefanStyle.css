@@ -64,12 +64,12 @@ div.header {
 }
 /* The hoverable area behind the icon */
 .menuIconHolder {
+  position: absolute;
   cursor: pointer;
   z-index: -1;
   background-color: black;
   width: 50px;
   display: inline-block;
-  float: left;
 }
 /* The space invader icon */
 .menuIcon {
@@ -240,5 +240,7 @@ h1.title {
 .gifHolder:hover .staticGif{
 	display: none;
 }
-
+.read {
+color: white;
+}
 
