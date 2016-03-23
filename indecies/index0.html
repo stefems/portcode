@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html ng-app>
+<head>
+	<meta charset="utf-8">
+	
+	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+	<!-- BOOTSTRAP ------------------------------------------------------------------------------------>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+	<!-- jQuery library -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+	<!-- Latest compiled JavaScript -->
+	<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+	<!-- FONTS, YO -->
+	<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Droid+Sans' rel='stylesheet' type='text/css'>
+	<script src="scripts.js"></script>
+	<link rel="stylesheet" type="text/css" href="stefanStyle.css">
+  </head>
+<body id="bodyElement">
+<div class=".container-fluid">
+  <!--BEGIN TOC--------------------------->
+  <div class="menuTableOfContents" id="menuTOC">
+    <ul class="tableContents">
+      <li class="x"><span onclick="OpenMenu()">X</span></li>
+      <li><span href="#developmentSection"  onclick="OpenMenu()">Development</span></li>
+      <li><span href="#aboutSection"  onclick="OpenMenu()">About</span></li>
+      <li><span href="#ceramicsSection"  onclick="OpenMenu()">Ceramics</span></li>
+      <li><span href="#writingSection"  onclick="OpenMenu()">Writing</span></li>
+      <li><span href="#photographySection"  onclick="OpenMenu()">Photography</span></li>
+    </ul>
+  </div>
+  <!--BEGIN HEADER--------------------------->
+  <div class="header">
+	<h1 class="title">Stefan Kowal<h1>
+	<div class="menuIconHolder" onclick="OpenMenu()" id="iconHolder"><span class="menuIcon" id="menuIcon"></span></div>
+  </div>
+  <!-- -------------------------------------->
+  <div class="separator"></div>
+  <!--BEGIN CONTENT------------------------>
+  <div class="content" id="contentElement">
+  <!-- GAME Preview------------------------->
+  <div id="developmentSection" class="section">
+    <h1 class="title">Game Development</h1>
+    <div class="gifHolder">
+      <img class="staticGif" src="images/parallelstatic.png"/>
+	  <img class="hiddenGif" src="images/parallelGif.gif"/>
+      <p class="summarytext">This was my most recent game, Parallel Potato. The player can never die and when in danger can see all other versions of themselves in different, parallel universes. </p>
+    </div>
+    <div class="gifHolder">
+      <img class="staticGif" src="images/youcannotwinStatic.png"/>
+	  <img class="hiddenGif" src="images/youcannotwinGif2.gif"/>
+      <p class="summarytext">You cannot win was the first game I made, </p>      
+    </div>
+	<div class="gifHolder">
+      <img class="staticGif" src="images/youcannotwinStatic.png"/>
+	  <img class="hiddenGif" src="images/youcannotwinGif2.gif"/>
+      <p class="summarytext">You cannot win was the first game I made, </p>      
+    </div>
+  </div>
+  <!-- ABOUT Preview------------------------>
+  <div id="aboutSection">
+    <h1 class="title">About</h1>
+  </div>
+  <!-- CERAMICS Preview--------------------->
+  <div id="ceramicsSection">
+    <h1 class="title">Ceramics</h1>
+  </div>
+  <!-- WRITING Preview---------------------->
+  <div id="writingSection">
+    <h1 class="title">Writing</h1>
+  </div>
+  <!-- PHOTOGRAPHY Preview------------------>
+  <div id="photographySection">
+    <h1 class="title">Photography<h1/>
+  </div>
+  </div>
+</div>
+</body>
+</html>  
+
+
