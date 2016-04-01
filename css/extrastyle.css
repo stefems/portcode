@@ -5,18 +5,87 @@ h1  a{
 	color: white;
 	pointer-events: none;
 }
+p {
+	font-size: 
+}
+
+
 .navbar-inverse .navbar-header .navbar-brand {
 	color: white;
 }
-.jumbotron  {
+#home  {
 	background-image: url("../images/stefanbanner.png");
 	background-size: cover;
 	color: #E0E0E0;
-	text-shadow: 1px 1px #383838;
+	text-shadow: 1px 1px black;
 	height: 60%;
 }
 
+#aboutjumbo  {
+	background-image: url("../images/aboutjumbo.jpg");
+	background-size: cover;
+	color: #E0E0E0;
+	text-shadow: 1px 1px black;
+	height: 60%;
+}
+.descriptiontext {
+	color: grey;
+	margin: 1em;
+}
+.gamedescriptiontext {
+	color: grey;
+}
+.buttonwriting {
+	margin-left: 1em;
+}
+.hiddentext {
+	display: none;
+	visibility: hidden;
+	color: white;
+	margin-left: 1em;
+	margin-right: 1em;
+}
+.min {
+	display: none;
+	visibility: hidden;
+	margin-left: 1em;
+	margin-bottom: 1em;
+}
+.max {
+	margin-left: 1em;
+	margin-bottom: 1em;
+}
+.writingtitle {
+	margin-left: 1em;
+	padding-top: 1em;
+	font-size: 1.25em;
+}
+.smallertitle {
+	pointer-events: none;
+}
+.writingtext {
+	margin-left: 1em;
+	color: white;
+	margin-right: 1em;
 
+}
+.summarytext {
+	color: grey;
+	font-size: 1.5em;
+}
+.contentsection .col-md-12 {
+	margin-bottom: 20px;
+}
+.contentsection .col-md-6 {
+	margin-bottom: 20px;
+}
+.portfolio-item {
+    margin-bottom: 25px;
+}
+/*
+.contentsection  .col-md-3 {
+	margin-bottom: 20px;
+}*/
 
 /* This changes the navbar such that it is collapsed by default*/
 @media (max-width: 2000px) {
