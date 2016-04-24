@@ -13,7 +13,7 @@
       <div class="jumbotron" id="home">
 		<a id="about" style="visible:none;"></a>
         <h1>A software developer,</h1>
-        <p>artist, and game designer working to educate and excite youth from all backgrounds in the area of computer science, Stefan Kowal is involved in TCS's goIT program as a student teacher, activity creator, and presenter in Cincinnati, Ohio. He is also fostering a career in game development, and is currently working on a project in Unity3D. </p>
+        <p>artist, and game designer currently working on an Scrum team to enhance a telecom provider's web services via Spring and Hibernate in Denver, Colorado. Stefan Kowal has also been involved in TCS's goIT program as a student teacher and activity and presentation creator in Cincinnati, Ohio. In his free time he is building his game development portfolio, and often meets with other local developers to talk about game development.</p>
         <p>
           <a class="btn btn-lg btn-primary" href="about.php" role="button">more about Stefan Kowal &raquo;</a>
         </p>
@@ -33,7 +33,7 @@
 				<h3><a class="smallertitle">Parallel Potato</a></h3>
 				<p class="gamedescriptiontext">While this prototype has no potatoes, (it only has rectangles; art wasn't in the scope) this game is a platformer in which the player plays a very special potato-person: one who has quantum immortality!</p>
 				<p>
-					<a id="gamebutton" class="btn btn-lg btn-primary" href="games.html" role="button">more about Parallel Potato &raquo;</a>
+					<a id="gamebutton" class="btn btn-lg btn-primary" href="parallelpotato.php" role="button">more about Parallel Potato &raquo;</a>
 				</p>
 			</div>
 			<div class="col-md-4 portfolio-item">

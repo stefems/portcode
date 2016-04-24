@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Stefan Kowal | About</title>
+    <title>Stefan Kowal | Parallel Potato</title>
 	<?php include("head.php"); ?>
   </head>
 
@@ -10,32 +10,26 @@
 		<div class="container">
 			<?php include("header.php"); ?>
 			<div class="row">
-				<div class="col-md-8">
-					<h1 style="color: grey;">Stefan Kowal is</h1>
-					<h3 style="color: grey;">a multifaceted software engineer at Tata Consultancy
-						Services living in <s>Cincinnati, Ohio</s> Denver, Colorado. Stefan's current
-						project is with a nation-wide telecom provider that is working to
-						enhance their online bill pay services. On a Scrum team, Stefan's role is to leverage
-						Spring, Hibernate, JMS, JPA, and an internal BPM tool to best deliver the needed features.
-						Stefan is also certified system architect in Pega 7,
-						is trained and tested in Red Hat's JBoss BPM Suite,
-						configured and developed use cases in a cluster of RHEL virtual machines,
-						has conducted technical interviews, collaborated with offshore
-						teams, led development groups,
-						organized team trainings, and has designed community outreach
-						presentations and challenges for TCS's goIT summer camp.
+				<div class="col-md-12">
+					<h1 style="color: grey;">Parallel Potato is</h1>
+					<h3 style="color: grey;">a game Stefan developed in reaction to
+					the Dark Souls franchise of video games: He wanted a game in which
+					the player didn't die. Ever. In this game the player controls a 
+					potato bestowed with a legendary trait of quantum immortality. (In
+					this universe "people" are vegetables, fruits, potatoes and such.)
+					The potato, if in a dangerous scenario, can see all of his different
+					selves in the different possible universes, and if he incurs a life-
+					threatening injury, will "pop" into a different self that has not
+					sustained such injury.
 					</h3>
-					<h3><a class="smallertitle">Stefan graduated from a small liberal arts
-						school with a BS in computer science in May of 2015.</a></h3>
+					<h3><a class="smallertitle">Check out this video to get a sense of what quatum
+					immortality means in the world of Parallel Potato.</a></h3>
 					<h3 style="color: white">IT Targets</h3>
 					<h3 style="color: white"><ul>
 						<li>Enhancing Education via IT</li>
 						<li>Artistic Expression through Interactive Media</li>
 						<li>Research and Development of AI</li>
 					</ul></h3>
-				</div>
-				<div class="col-md-4">
-					<img class="img-responsive" src="images/aboutjumbo.jpg" alt="">
 				</div>
 			</div>	
 			
@@ -55,7 +49,7 @@
 			 and interactive media. His passion for literature,
 			 film, and social interaction leads him to believe that video games
 			 are an emerging art form that is both accessible and distinct. Check
-			 out the <a href="/index.php#gameDevelopment"/>game section on this website to learn more.</a></h3>
+			 out the game section on this website to learn more.</a></h3>
 			 
 			 <h3 style="color: grey;">Hoping to go back to school to study neuroscience
 			 and to further his education in computer science, Stefan wants to delve into

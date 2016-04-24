@@ -8,6 +8,7 @@
 	            <a href="https://github.com/stefems"><i class="fa fa-github fa-3x social"></i></a>
 	            <a href="http://stefems.tumblr.com/"><i class="fa fa-tumblr-square fa-3x social"></i></a>
 	            <a href="http://codepen.io/steflawok/"><i class="fa fa-codepen fa-3x social"></i></a>
+	            <a href="https://www.hackerrank.com/StefanK"><i class="fa fa-header fa-3x social"></i></a>
 	            <a href="https://www.instagram.com/stefwok/"><i class="fa fa-instagram fa-3x social"></i></a>
 		</div>
     <hr>
