@@ -23,7 +23,7 @@
 	  <h1><a id="gameDevelopment" >Game Development</a></h1>
 	  <div class="row">
 		<div class="col-md-12">
-			<p class="summarytext">Not every gamer is cut out to be a game designer; Stefan knows this the hard way. He's got a lot of learning ahead of him, but he's okay with learning. His side projects and research of game design, level design, and game prototyping have taught him a lot, and he's going to keep learning and practicing game design for as long as he can. </p>
+			<p class="summarytext">Not every gamer is cut out to be a game designer; Stefan knows this the hard way. Making games isn't playing games. He's got a lot of learning ahead of him, but he enjoys learning. His side projects and research of game design, level design, and game prototyping have taught him a lot, and he's going to keep learning and practicing game design for as long as he can. </p>
 		</div>
 	  </div>
 	  <div class="contentsection">
@@ -42,7 +42,7 @@
 				<h3><a class="smallertitle">You Cannot Win</a></h3>
 				<p class="gamedescriptiontext">Developed in NetLogo 3D, this game lets the player fly through a trench inspired by Star Wars, avoiding obstacles along the way. However, what seems initially to be a benign narrator quickly becomes the antagonist as the game world is broken down around the player.</p>
 				<p>
-					<a id="gamebutton" class="btn btn-lg btn-primary" href="games.html" role="button">more about You Cannot Win &raquo;</a>
+					<a id="gamebutton" class="btn btn-lg btn-primary" href="youcannotwin.php" role="button">more about You Cannot Win &raquo;</a>
 				</p>
 			</div>
 			<div class="col-md-4 portfolio-item">
@@ -51,7 +51,7 @@
 				<h3><a class="smallertitle">Homefront</a></h3>
 				<p class="gamedescriptiontext">Inspired by EarthBound and Gone Home, Homefront was a 2D narrative game in which the player controls a boy who contructs fantasies to deal with the pain of his father being away at war. When he gets bad news about his father, his world breaks down around him, and he lashes out at the reality that beckons.</p>
 				<p>
-					<a id="gamebutton" class="btn btn-lg btn-primary" href="games.html" role="button">more about Homefront &raquo;</a>
+					<a id="gamebutton" class="btn btn-lg btn-primary" href="homefront.php" role="button">more about Homefront &raquo;</a>
 				</p>
 			</div>
 		  </div>

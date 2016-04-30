@@ -11,7 +11,7 @@
 			<?php include("header.php"); ?>
 			<div class="row">
 				<div class="col-md-8">
-					<h1 style="color: grey;">Stefan Kowal is</h1>
+					<h1 style="color: white;">Stefan Kowal is</h1>
 					<h3 style="color: grey;">a multifaceted software engineer at Tata Consultancy
 						Services living in <s>Cincinnati, Ohio</s> Denver, Colorado. Stefan's current
 						project is with a nation-wide telecom provider that is working to
@@ -91,6 +91,8 @@
 			in college and continues to practice his writing when he can. He wants to publish a book someday, but
 			he's got a lot more reading and learning to do first.
 			</h3>
+			
+			<h1 style="color: white" id="Contact" class="text-center center-block">Contact me at kowalmax.s@gmail.com</h1>
 			
 			<?php include("footer.php"); ?>
   </body>
