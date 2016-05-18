@@ -111,7 +111,7 @@
 	  <h1><a id="Photography" >Photography</a></h1>
 	  <div class="row">
 		<div class="col-md-12">
-			<p class="summarytext">Stefan likes photography. He's no photoshop buff or lighting expert but he makes do alright. Most of these photos were taken during travels outside the US, so he probably likes traveling too.</p>
+			<p class="summarytext">Stefan likes photography. Most of these photos were taken during travels outside the US, so he probably likes traveling too.</p>
 		</div>
 	  </div>
       <div>
@@ -205,7 +205,7 @@
 				and has written several short stories and hopes to continue writing creatively in the future. While studying writing he learned firsthand the value of
 				planning and constraining a story to best deliver on a theme, and the importance of keeping the writing clear and concise. He has a love for creating characters
 				and writing dialogue and hopes to get involved in game writing or novel writing.</p>
-				<p><a class="btn btn-lg btn-primary buttonwriting" href="writing.html" role="button">more about Stefan's creative writing &raquo;</a></p>
+				<p><a class="btn btn-lg btn-primary buttonwriting" href="creativewriting.php" role="button">more about Stefan's creative writing &raquo;</a></p>
 				</div>
 			</div>
 		</div>
@@ -302,5 +302,6 @@
 	  </div>
     </div> <!-- /container -->
 	<?php include("footer.php"); ?>
+	</div>
   </body>
 </html>
