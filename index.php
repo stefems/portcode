@@ -218,7 +218,7 @@
 				Stefan utilizes industry terminology and concepts to pick apart the multiplayer map, and is working with community members to continue analyzing and
 				creating content. Some of his community colleages have made maps that were recognized by Halo's developers and were made standard in online play. Stefan
 				wants to get to the point where he too can create content that can be embraced by game developers and the community.</p>
-				<p><a class="btn btn-lg btn-primary buttonwriting" href="maps.html" role="button">more about Stefan's level design &raquo;</a></p>
+				<p><a class="btn btn-lg btn-primary buttonwriting" href="mapdesign.php" role="button">more about Stefan's level design &raquo;</a></p>
 				</div>
 			</div>
 			<div class="col-md-6">
