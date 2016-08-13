@@ -10,6 +10,7 @@
 
 	<!-- Bootstrap core CSS -->
 	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<!-- Font Awesome fonts -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 	<!-- Customized CSS -->
 	<link href="css/extrastyle.css" rel="stylesheet">

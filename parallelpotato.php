@@ -12,8 +12,8 @@
 			<div class="row">
 				<div class="col-md-12">
 					<h1 style="color: white;">Parallel Potato is</h1>
-					<h3 style="color: grey;">a game I developed in Unity in reaction to
-					the Dark Souls franchise of video games: I wanted a game in which
+					<h3 style="color: grey;">a game Stefan developed in Unity in reaction to
+					the Dark Souls franchise of video games: he wanted a game in which
 					the player didn't die. Ever. In this game the player controls a 
 					potato (a red rectangle in the prototype)
 					bestowed with the legendary trait of quantum immortality. (In
@@ -23,8 +23,9 @@
 					injury will "pop" into a different self that has not sustained such injury. Thus the
 					immortality, and thus the idea of parallel versions of oneself.
 					</h3>
-					<h3><a class="smallertitle">Check out this video to get a sense of what quantum
-					immortality means in the world of Parallel Potato. (Video is in the process of being created.)</a></h3>
+					<h3><a class="smallertitle">Check out this gif to get a sense of what quantum
+					immortality means in the world of Parallel Potato.</a></h3>
+					<img class="img-responsive" src="images/games/parallelGif.gif" alt="">
 					
 					<h3 style="color: white">Lessons Learned</h3>
 					<h3 style="color: white"><ul>

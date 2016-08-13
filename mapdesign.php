@@ -12,8 +12,7 @@
 			<div class="row">
 				<h1 style="color: white;">Level Design</h1>
 				<h2 style="color: grey;">
-					I'm an explorer at heart. When I was younger I climbed trees, went on hikes, crawled through pipes and trespassed in construction zones.
-					It comes to no surprise then that I love exploring in games. I can still remember the maps and environments of video games from my earliest
+					I can still remember the maps and environments of video games from my earliest
 					childhood, whether it be from Banjo Kazooie, or the Viridian Forest in Pokemon Yellow. Even before I could develop maps I would draw them
 					out for fun. I began making maps in Halo 3, and continued making maps in each subsequent Halo game to come. Below are two of my favorite
 					and most recent maps, and at the bottom is a blurb from a map analyzation I conducted. Be sure to follow the link to read the full text.

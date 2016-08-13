@@ -13,7 +13,7 @@
       <div class="jumbotron" id="home">
 		<a id="about" style="visible:none;"></a>
         <h1>A software developer,</h1>
-        <p>artist, and game designer currently working on an Scrum team to enhance a telecom provider's web services via Spring and Hibernate in Denver, Colorado. Stefan Kowal has also been involved in TCS's goIT program as a student teacher and activity and presentation creator in Cincinnati, Ohio. In his free time he is building his game development portfolio, and often meets with other local developers to talk about game development.</p>
+        <p>artist, and game designer currently working on a Scrum Team to enhance CenturyLink's web services in Denver, Colorado. Stefan Kowal has also been involved in TCS's goIT program as a student teacher and activity and presentation creator in Cincinnati, Ohio. In his free time he is developing a web app for discovering live music in Denver.</p>
         <p>
           <a class="btn btn-lg btn-primary" href="about.php" role="button">more about Stefan Kowal &raquo;</a>
         </p>
@@ -23,7 +23,7 @@
 	  <h1><a id="gameDevelopment" >Game Development</a></h1>
 	  <div class="row">
 		<div class="col-md-12">
-			<p class="summarytext">Not every gamer is cut out to be a game designer; Stefan knows this the hard way. Making games isn't playing games. He's got a lot of learning ahead of him, but he enjoys learning. His side projects and research of game design, level design, and game prototyping have taught him a lot, and he's going to keep learning and practicing game design for as long as he can. </p>
+			<p class="summarytext">Raised by games, taught by games, and now maker of games.</p>
 		</div>
 	  </div>
 	  <div class="contentsection">
@@ -31,7 +31,7 @@
 			<div class="col-md-4 portfolio-item">
 				<img class="img-responsive" src="images/games/parallelstatic.png" alt="">
 				<h3><a class="smallertitle">Parallel Potato</a></h3>
-				<p class="gamedescriptiontext">While this prototype has no potatoes, (it only has rectangles; art wasn't in the scope) this game is a platformer in which the player plays a very special potato-person: one who has quantum immortality!</p>
+				<p class="gamedescriptiontext">While this prototype has no potatoes, this game is a platformer in which the player plays a very special potato-person: one with quantum immortality.</p>
 				<p>
 					<a id="gamebutton" class="btn btn-lg btn-primary" href="parallelpotato.php" role="button">more about Parallel Potato &raquo;</a>
 				</p>
@@ -49,7 +49,7 @@
 				<img class="img-responsive" src="images/games/Sketches.jpg" alt="">
 				
 				<h3><a class="smallertitle">Homefront</a></h3>
-				<p class="gamedescriptiontext">Inspired by EarthBound and Gone Home, Homefront was a 2D narrative game in which the player controls a boy who contructs fantasies to deal with the pain of his father being away at war. When he gets bad news about his father, his world breaks down around him, and he lashes out at the reality that beckons.</p>
+				<p class="gamedescriptiontext">Inspired by EarthBound and Gone Home, Homefront is a 2D narrative game in which the player controls a boy who contructs fantasies to deal with the pain of his father being away at war. When the child gets bad news about his father, his world breaks down around him, and he lashes out at the reality that beckons.</p>
 				<p>
 					<a id="gamebutton" class="btn btn-lg btn-primary" href="homefront.php" role="button">more about Homefront &raquo;</a>
 				</p>
@@ -61,7 +61,7 @@
 	  <h1><a id="Pottery" >Pottery</a></h1>
 	  <div class="row">
 		<div class="col-md-12">
-			<p class="summarytext">Stefan crafted a love for tangible arts when he was young and made sure to take advantage of the opportunty to study ceramics while he was acquiring his BS in computer science. His love of coffee and tea has led him to take up mug creation, and his passion for sculpture leads him in many directions.</p>
+			<p class="summarytext">A tactile learner, ceramic arts hit home.</p>
 		</div>
 	  </div>
 	  <div class="contentsection">
@@ -111,7 +111,7 @@
 	  <h1><a id="Photography" >Photography</a></h1>
 	  <div class="row">
 		<div class="col-md-12">
-			<p class="summarytext">Stefan likes photography. Most of these photos were taken during travels outside the US, so he probably likes traveling too.</p>
+			<p class="summarytext">Pictured: Ohio, Denmark, Germany.</p>
 		</div>
 	  </div>
       <div>
@@ -166,14 +166,14 @@
 	  <h1><a id="Writing" >Writing</a></h1>
 	  <div class="row">
 		<div class="col-md-12">
-			<p class="summarytext">A liberal arts education would be nothing without writing skills. The works shown here are from a variety of different applications: a creative writing piece about a family of art theives, an analysis of level design principles present in a Halo 3 multiplayer map, and a history paper describing how the chaotic historiography conducted during the Vietnam War contributed to its contentious perception.</p>
+			<p class="summarytext">Writing short stories, analyzations of game design, and interviews with game designers.</p>
 		</div>
 	  </div>
 	  <div class="contentsection">
 		<div class="row">
-			<div class="col-md-6">
-				<div style="background-color: #4DB34D;">
-				<p class="writingtitle" >Creative Writing</p>
+			<div class="col-md-12">
+				<div class="jumbotron" style="background-color: #4DB34D;">
+				<p class="writingtitle" >Creative Writing Sample</p>
 				<p class="writingtext" >A family of four: a mother with curly brown hair and big, oval glasses, a father with combed,
 				silver hair and a trimmed, silver mustache, a daughter, twenty-three years old, with green eyes and
 				brown hair tied in a bun, and a son, twenty-one years old, with curly black hair and black, thick framed
@@ -197,9 +197,10 @@
 				<button id="paintingbuttonmin" onclick="hideHiddenText('1', this.id)" type="button" class="btn btn-default min" aria-label="Right Align">
 					<span class="glyphicon glyphicon-minus" aria-hidden="true">minimize</span>
 				</button>
+				<p><a class="btn btn-lg btn-primary buttonwriting" href="creativewriting.php" role="button">more about creative writing &raquo;</a></p>
 				</div>
 			</div>
-			<div class="col-md-6">
+			<!--<div class="col-md-6">
 				<div style="border-style: solid; border-color: #4DB34D; padding: 2em, 1em, 0, 1em;">
 				<p class="descriptiontext" >This fictional piece, named <i>The Painting of the Storm and the Sailboat</i> was written by Stefan in a creative writing class. He has a passion for storytelling,
 				and has written several short stories and hopes to continue writing creatively in the future. While studying writing he learned firsthand the value of
@@ -207,10 +208,10 @@
 				and writing dialogue and hopes to get involved in game writing or novel writing.</p>
 				<p><a class="btn btn-lg btn-primary buttonwriting" href="creativewriting.php" role="button">more about Stefan's creative writing &raquo;</a></p>
 				</div>
-			</div>
+			</div>-->
 		</div>
 		<div class="row">
-			<div class="col-md-6">
+			<!--<div class="col-md-6">
 				<div style="border-style: solid; border-color: #005676; padding: 2em, 1em, 0, 1em;">
 				<p class="descriptiontext">Stefan has had a passion for level design in multiplayer first person shooters since he first played Halo 2 almost 10 years ago. Since then he's 
 				created many maps using Halo's "Forge", a tool for making battlegrounds to play with friends. He's been involved in the community and has engaged in
@@ -220,9 +221,9 @@
 				wants to get to the point where he too can create content that can be embraced by game developers and the community.</p>
 				<p><a class="btn btn-lg btn-primary buttonwriting" href="mapdesign.php" role="button">more about Stefan's level design &raquo;</a></p>
 				</div>
-			</div>
-			<div class="col-md-6">
-				<div style="background-color: #005676;">
+			</div>-->
+			<div class="col-md-12">
+				<div class="jumbotron" style="background-color: #005676;">
 				<p class="writingtitle"> Level Design in Multiplayer Video Games</p>
 				<p class="writingtext">	An important question a designer must ask themselves is how they’d like to implement focal points on their map. One approach is to have a single,
 				dominant focal point -- see Halo 3's Valhalla -- that will focus the fighting toward that area. The direct route a player will take toward controlling this central
@@ -244,13 +245,27 @@
 				<button id="designbuttonmin" onclick="hideHiddenText('2', this.id)" type="button" class="btn btn-default min" aria-label="Right Align">
 					<span class="glyphicon glyphicon-minus" aria-hidden="true">minimize</span>
 				</button>
+				<p><a class="btn btn-lg btn-primary buttonwriting" href="mapdesign.php" role="button">more about level design &raquo;</a></p>
 				</div>
+				<p></p>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-md-6">
-				<div style="background-color: #BF4040;">
-				<p class="writingtitle"> A History Paper</p>
+			<div class="col-md-12">
+				<div class="jumbotron" style="background-color: #BF4040;">
+				<p class="writingtitle"> An Interview with Chambara Designer Esteban Fajardo</p>
+				<p class="writingtext"><b>Esteban, you're a developer with Team OK. We're going to talk plenty about Chambara, but before we get there I'd like for you
+				to walk us through a timeline of your game development background.</b></p>
+				<p class="writingtext">
+				I’ve been surrounded by game development for much of my life. My father works on games and even teaches them at the University of Denver's Emergent
+				Digital Practices program. As such, I’ve been surrounded by the tools and books about game development since I was very young. My very first game was
+				a bat echo-location maze game I made for a science fair when I was ten, and since then I’ve been making small personal games. Chambara will be the first
+				commercial release I work on.
+				</p>
+				<p class="writingtext">Read the full interview <a href="http://www.gamasutra.com/blogs/StefanKowal/20160606/271624/Playing_with_Shadows_and_Legos_an_Interview_with_Chambara_Lead_Designer.php">here.</a></p>
+				<p></p>
+				</div>
+			</div><!--<p class="writingtitle"> A History Paper</p>
 				<p class="writingtext">	To establish a conclusion today, 40 years following its outcome, about the Vietnam War requires
 				a dizzying effort of fact-checking, double-fact- checking and source-scrounging. If peering into the
 				historiography of Vietnam is itself a dizzying ordeal, is it no coincidence that the American perception of
@@ -297,7 +312,7 @@
 				Looking through the British Library he found documents and books hundreds of years old, and was able to conduct research on the Great Plague of London (1665) and the Great Fire of London (1666).
 				Ever since then he's fallen in love with digging into books and conducting research, whether it be for papers on the Vietnam War, sampled here, or for philosophy, history, or art. </p>
 				</div>
-			</div>
+			</div>-->
 		</div>
 	  </div>
     </div> <!-- /container -->
